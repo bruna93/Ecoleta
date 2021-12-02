@@ -20,7 +20,7 @@ e buscar algum ponto entre os pontos cadastrados no banco de dados (por cidade).
 
 ### Links
 
-- Live Site URL: (https://bruna93.github.io/Omnifood/)
+- Live Site URL: (https://bruna93.github.io/Ecoleta/)
 
 ## Process
 
