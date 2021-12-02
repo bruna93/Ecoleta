@@ -16,7 +16,7 @@ e buscar algum ponto entre os pontos cadastrados no banco de dados (por cidade).
 
 ### Screenshot
 
-![omnifood](https://user-images.githubusercontent.com/68197761/138560929-64247c68-fc48-4c56-8d52-15bd8c89d469.jpg)
+![ecoleta](https://user-images.githubusercontent.com/68197761/144499326-32e05667-4ae0-414e-a843-91ce6c18c746.png)
 
 ### Links
 
@@ -32,6 +32,9 @@ e buscar algum ponto entre os pontos cadastrados no banco de dados (por cidade).
 - CSS Grid
 - Mobile-first workflow
 - CSS Animations
+- Express.js
+- SQlite3
+- Nunjucks
 
 ## Author
 
