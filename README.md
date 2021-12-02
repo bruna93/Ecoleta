@@ -7,7 +7,6 @@ e buscar algum ponto entre os pontos cadastrados no banco de dados (por cidade).
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [Process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -17,10 +16,6 @@ e buscar algum ponto entre os pontos cadastrados no banco de dados (por cidade).
 ### Screenshot
 
 ![ecoleta](https://user-images.githubusercontent.com/68197761/144499326-32e05667-4ae0-414e-a843-91ce6c18c746.png)
-
-### Links
-
-- Live Site URL: (https://bruna93.github.io/Ecoleta/)
 
 ## Process
 
